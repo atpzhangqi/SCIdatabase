@@ -1,4 +1,5 @@
 #+TITLE: Vascular autophagy in health and disease
 
 ** authors: [[David D. Gutterman]]
+** #autophagy #vascular
 ** 1.	Bravo-San Pedro JM, Kroemer G and Galluzzi L. Autophagy and Mitophagy in Cardiovascular Disease. CircRes. 2017;120:1812-1824.
