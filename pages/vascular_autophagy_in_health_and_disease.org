@@ -3,4 +3,5 @@
 ** authors: [[David D. Gutterman]]
 ** #autophagy #vascular
 ** *machanisms of autophagy*
+*** [[autophagy]] 感知[[ATP]] disminish, 并且激活，保留并再生物质，维持稳态。
 ***
