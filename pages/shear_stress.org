@@ -1,3 +1,4 @@
 #+TITLE: Shear stress
 
-** The guidance receptor plexin D1 is a mechanosensor in endothelial cells
+** [[The guidance receptor plexin D1 is a mechanosensor in endothelial cells]]
+**
